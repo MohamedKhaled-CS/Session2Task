@@ -27,8 +27,8 @@ C# - Project
     
   Task9 [3 Methods]: -Area(Overloading) | Argument: Circle => Area (double) | Rectangle => Area (double, double) | Triangle => Area (double, double, double).
   -> Area().ToString("F2") To Print The First 2 decimal places.
-    
-  Task(10): -Find the bugs 
 
-    //Guess(); //-Bonus Task(1) - Guess The Number (1-100)
-    //FizzBuzz();  //-Bonus Task(2) - (Fizz=> mul. of 3, Buzz=> mul. of 5)
+  Task(10): -Find the bugs |Argument: Sum(int).
+
+  Guess(); -Bonus Task(1) - Guess The Number (1-100)
+  FizzBuzz();  -Bonus Task(2) - (mul. of 3 => Fizz ,mul. of 5 => Buzz)
