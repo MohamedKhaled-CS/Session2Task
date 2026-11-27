@@ -25,14 +25,10 @@ C# - Project
 
   Task8(string, double, double, bool); -Invoice | Argument: (customer(string), amount(double), taxRate(double), showTax(bool)), taxRate & showTax Have initial Values;
     
-  Task9 [3 Methods]: -Area(Overloading) | Argument: Circle => Area (double), Rectangle => Area (double, double), Triangle => Area (double, double, double).
-     /*
-    Console.WriteLine($"circle: {Area (3).ToString("F2")}"); //Circle
-    Console.WriteLine($"rectangle: {Area (4, 5).ToStrping("F2")}"); //Rectangle
-    Console.WriteLine($"Triangle: {Area (3, 4, 5).ToString("F2")}"); //Triangle
-    */
+  Task9 [3 Methods]: -Area(Overloading) | Argument: Circle => Area (double) | Rectangle => Area (double, double) | Triangle => Area (double, double, double).
+   -> Area().ToString("F2") To Print The First 2 decimal places.
     
-    // Console.WriteLine(Sum (3)); //-Task(10): Find the bugs
+  Task(10): -Find the bugs 
 
     //Guess(); //-Bonus Task(1) - Guess The Number (1-100)
     //FizzBuzz();  //-Bonus Task(2) - (Fizz=> mul. of 3, Buzz=> mul. of 5)
