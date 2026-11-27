@@ -1,0 +1,16 @@
+C:\Users\mnme0\Documents\C#\Projects\Session2Task\bin\Debug\net11.0\Session2Task.exe
+C:\Users\mnme0\Documents\C#\Projects\Session2Task\bin\Debug\net11.0\Session2Task.deps.json
+C:\Users\mnme0\Documents\C#\Projects\Session2Task\bin\Debug\net11.0\Session2Task.runtimeconfig.json
+C:\Users\mnme0\Documents\C#\Projects\Session2Task\bin\Debug\net11.0\Session2Task.runtimeconfig.dev.json
+C:\Users\mnme0\Documents\C#\Projects\Session2Task\bin\Debug\net11.0\Session2Task.dll
+C:\Users\mnme0\Documents\C#\Projects\Session2Task\bin\Debug\net11.0\Session2Task.pdb
+C:\Users\mnme0\Documents\C#\Projects\Session2Task\obj\Debug\net11.0\Session2Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnme0\Documents\C#\Projects\Session2Task\obj\Debug\net11.0\Session2Task.AssemblyInfoInputs.cache
+C:\Users\mnme0\Documents\C#\Projects\Session2Task\obj\Debug\net11.0\Session2Task.AssemblyInfo.cs
+C:\Users\mnme0\Documents\C#\Projects\Session2Task\obj\Debug\net11.0\Session2Task.csproj.CoreCompileInputs.cache
+C:\Users\mnme0\Documents\C#\Projects\Session2Task\obj\Debug\net11.0\Session2Task.dll
+C:\Users\mnme0\Documents\C#\Projects\Session2Task\obj\Debug\net11.0\refint\Session2Task.dll
+C:\Users\mnme0\Documents\C#\Projects\Session2Task\obj\Debug\net11.0\Session2Task.pdb
+C:\Users\mnme0\Documents\C#\Projects\Session2Task\obj\Debug\net11.0\Session2Task.genruntimeconfig.cache
+C:\Users\mnme0\Documents\C#\Projects\Session2Task\obj\Debug\net11.0\ref\Session2Task.dll
+C:\Users\mnme0\Documents\C#\Projects\Session2Task\obj\Debug\net11.0\Session2.AEB122FB.Up2Date
