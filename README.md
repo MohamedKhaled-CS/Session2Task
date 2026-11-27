@@ -26,7 +26,7 @@ C# - Project
   Task8(string, double, double, bool); -Invoice | Argument: (customer(string), amount(double), taxRate(double), showTax(bool)), taxRate & showTax Have initial Values;
     
   Task9 [3 Methods]: -Area(Overloading) | Argument: Circle => Area (double) | Rectangle => Area (double, double) | Triangle => Area (double, double, double).
-   -> Area().ToString("F2") To Print The First 2 decimal places.
+  -> Area().ToString("F2") To Print The First 2 decimal places.
     
   Task(10): -Find the bugs 
 
