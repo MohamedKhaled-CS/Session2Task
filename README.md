@@ -6,7 +6,8 @@ C# - Project
 - To Test Any Task Remove "//" , not "//-" it's commnet!
 
 2- Tasks Description:
-  
+
+  Task1(); -Grade calculator
   
   Task2(); -DAY OF WEEK (1-7) | Using Classic Switch
 
@@ -16,21 +17,13 @@ C# - Project
 
   Task4() : -Sum until zero
 
-    /*
-    string[] students = { "Ali", "Sara", "Omar", "Laila", "Mona" }; // Input Task5
-    Task5(students); //-Student names
-    */
+  Task5(arrayString); -Student names | Argument: list of Strings e.g.(string[] students = { "Ali", "Sara", "Omar", "Laila", "Mona" };
+  
+  Task6 [3 Methods] - Helper Methods | Argument: IsEven(int), Max(double, double), PrintLine("String");
+  
+  Task7(); -Calculator 
 
-    //-Task6 - Helper Methods
-    /* 
-    //Console.WriteLine(IsEven(222504));
-    //Console.WriteLine(Max(-1,2));
-    //PrintLine("moha");
-    */
-
-    //Task7(); //-Calculator 
-
-    //Task8(taxRate:0.14, showTax:false, customer:"ali", amount:100.00); //-Invoice | (customer(string), amount(double), taxRate(double), showTax(bool)) - dif. order of params.
+  Task8(string, double, double, bool); -Invoice | Argument: e.g.(customer(string), amount(double), taxRate(double), showTax(bool)) - dif. order of params.
     
     //-Task9 : Area(Overloading) - ToString("F2") => 2 deciaml places
      /*
