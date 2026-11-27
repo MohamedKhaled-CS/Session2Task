@@ -19,17 +19,17 @@ C# - Project
 
   Task5(arrayString); -Student names | Argument: list of Strings e.g.(string[] students = { "Ali", "Sara", "Omar", "Laila", "Mona" };
   
-  Task6 [3 Methods] - Helper Methods | Argument: IsEven(int), Max(double, double), PrintLine("String");
+  Task6 [3 Methods] -Helper Methods | Argument: IsEven(int), Max(double, double), PrintLine("String");
   
   Task7(); -Calculator 
 
-  Task8(string, double, double, bool); -Invoice | Argument: e.g.(customer(string), amount(double), taxRate(double), showTax(bool)) - dif. order of params.
+  Task8(string, double, double, bool); -Invoice | Argument: (customer(string), amount(double), taxRate(double), showTax(bool)), taxRate & showTax Have initial Values;
     
-    //-Task9 : Area(Overloading) - ToString("F2") => 2 deciaml places
+  Task9 [3 Methods]: -Area(Overloading) | Argument: Circle => Area (double), Rectangle => Area (double, double), Triangle => Area (double, double, double).
      /*
     Console.WriteLine($"circle: {Area (3).ToString("F2")}"); //Circle
     Console.WriteLine($"rectangle: {Area (4, 5).ToStrping("F2")}"); //Rectangle
-    Console.WriteLine($"rectangle: {Area (3, 4, 5).ToString("F2")}"); //Triangle
+    Console.WriteLine($"Triangle: {Area (3, 4, 5).ToString("F2")}"); //Triangle
     */
     
     // Console.WriteLine(Sum (3)); //-Task(10): Find the bugs
